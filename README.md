@@ -41,7 +41,10 @@ I'm interested in open-source and enjoy collaborating with people to build usefu
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=govinddangi4564&theme=radical&no-frame=true&margin-w=10" />
+![Trophies](https://github-trophies.vercel.app/?username=govinddangi4564)
+
+## 📈 GitHub Activity Graph
+[![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=govinddangi4564&theme=react-dark)](https://github.com/govinddangi4564)
  
 ---
  
