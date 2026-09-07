@@ -3,6 +3,9 @@ I'm a Java Full Stack Developer and Computer Science student passionate about bu
 I enjoy working on end-to-end projects using Java, Spring Boot, and REST APIs, and I'm always looking to improve through real-world problem solving.<br>
 I'm interested in open-source and enjoy collaborating with people to build useful software.
 
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=govinddangi4564&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govinddangi4564)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govinddangi580@gmail.com)
